@@ -1,0 +1,3 @@
+# El proyecto usa solo bibliotecas estándar de Python; Jupyter se requiere para ejecutar el notebook.
+ipykernel
+jupyter
